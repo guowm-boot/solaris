@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="d4e0b845-a4e2-4460-8ef0-9cb3d53fd878" name="guowm-boot">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
