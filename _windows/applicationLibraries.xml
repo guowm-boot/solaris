@@ -1,0 +1,21 @@
+<application>
+  <component name="libraryTable">
+    <library name="common-utils-3.0.5">
+      <CLASSES>
+        <root url="jar://D:/文档/开发/大圣/project/vms/11 项目源码/其他工具包/common-utils-3.0.5.jar!/" />
+        <root url="jar://D:/文档/开发/大圣/project/vms/11 项目源码/其他工具包/excel-utils-1.0.0.jar!/" />
+        <root url="jar://D:/文档/开发/大圣/project/vms/11 项目源码/其他工具包/hdfs-utils-3.0.4.jar!/" />
+        <root url="jar://D:/文档/开发/大圣/project/vms/11 项目源码/其他工具包/ImpalaJDBC4-2.6.12.jar!/" />
+        <root url="jar://D:/文档/开发/大圣/project/vms/11 项目源码/其他工具包/ImpalaJDBC41-2.6.12.jar!/" />
+        <root url="jar://D:/文档/开发/大圣/project/vms/11 项目源码/其他工具包/multi-data-source-utils-3.1.0.jar!/" />
+        <root url="jar://D:/文档/开发/大圣/project/vms/11 项目源码/其他工具包/redis-utils-3.1.0.jar!/" />
+        <root url="jar://D:/文档/开发/大圣/project/vms/11 项目源码/其他工具包/swagger-utils-3.0.0.jar!/" />
+        <root url="jar://D:/文档/开发/大圣/project/vms/11 项目源码/其他工具包/tsp-ga-tbox-decode-2.0.0.jar!/" />
+        <root url="jar://D:/文档/开发/大圣/project/vms/11 项目源码/其他工具包/web-utils-3.0.3.jar!/" />
+        <root url="jar://D:/文档/开发/大圣/project/vms/11 项目源码/其他工具包/xxl-job-utils-3.0.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
