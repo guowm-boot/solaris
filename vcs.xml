@@ -66,8 +66,12 @@
           <option name="url" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/esb-WebService.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.88.25.40:9001/gac-nev-monitor-center/esb-WebService.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\文档\开发\大圣\project\vms" />
+    <option name="cloneParentDir" value="D:\文档\开发\大圣\project\vms\vms-git" />
   </component>
 </application>
