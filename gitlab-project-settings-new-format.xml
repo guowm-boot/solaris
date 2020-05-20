@@ -422,6 +422,426 @@
           <option name="namespace" value="iov" />
           <option name="sshUrl" value="ssh://git@10.88.25.40:2222/iov/xxl-job.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/a26-electricize-record.git" />
+          <option name="name" value="a26-electricize-record" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/a26-electricize-record.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/battery_life_cycle.git" />
+          <option name="name" value="battery_life_cycle" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/battery_life_cycle.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/battery_life_cycle_soh.git" />
+          <option name="name" value="battery_life_cycle_soh" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/battery_life_cycle_soh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/big_charging_statistics.git" />
+          <option name="name" value="big_charging_statistics" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/big_charging_statistics.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/big_endurance_mileage_gb.git" />
+          <option name="name" value="big_endurance_mileage_gb" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/big_endurance_mileage_gb.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/big_exporting_historical_data_gb.git" />
+          <option name="name" value="big_exporting_historical_data_gb" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/big_exporting_historical_data_gb.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/big_vehicle_on_line.git" />
+          <option name="name" value="big_vehicle_on_line" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/big_vehicle_on_line.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/charging-statistics.git" />
+          <option name="name" value="charging-statistics" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/charging-statistics.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/data-synchronization.git" />
+          <option name="name" value="data-synchronization" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/data-synchronization.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/dataProcessing.git" />
+          <option name="name" value="dataProcessing" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/dataProcessing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/exporting-historical-data.git" />
+          <option name="name" value="exporting-historical-data" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/exporting-historical-data.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/flume-Interceptor.git" />
+          <option name="name" value="flume-Interceptor" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/flume-Interceptor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/gb-alarm-handle.git" />
+          <option name="name" value="gb-alarm-handle" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/gb-alarm-handle.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/gb-kafka-hdfs.git" />
+          <option name="name" value="gb-kafka-hdfs" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/gb-kafka-hdfs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/gb-vehicle-analysis.git" />
+          <option name="name" value="gb-vehicle-analysis" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/gb-vehicle-analysis.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/qb-alarm-handle.git" />
+          <option name="name" value="qb-alarm-handle" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/qb-alarm-handle.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/spark-submit.git" />
+          <option name="name" value="spark-submit" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/spark-submit.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/alarm-manage.git" />
+          <option name="name" value="alarm-manage" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/alarm-manage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/app-gateway.git" />
+          <option name="name" value="app-gateway" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/app-gateway.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/battery-manage.git" />
+          <option name="name" value="battery-manage" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/battery-manage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/business-manage.git" />
+          <option name="name" value="business-manage" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/business-manage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/catl-gbdata-syn.git" />
+          <option name="name" value="catl-gbdata-syn" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/catl-gbdata-syn.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/config-center.git" />
+          <option name="name" value="config-center" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/config-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/config-center-resource.git" />
+          <option name="name" value="config-center-resource" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/config-center-resource.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/cx-data-hub.git" />
+          <option name="name" value="cx-data-hub" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/cx-data-hub.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/elk-alarm.git" />
+          <option name="name" value="elk-alarm" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/elk-alarm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/esb-webs-client.git" />
+          <option name="name" value="esb-webs-client" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/esb-webs-client.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/esb-WebService.git" />
+          <option name="name" value="esb-WebService" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/esb-WebService.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/monitor-center.git" />
+          <option name="name" value="monitor-center" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/monitor-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/nev-monitor-center-web.git" />
+          <option name="name" value="nev-monitor-center-web" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/nev-monitor-center-web.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/parent.git" />
+          <option name="name" value="parent" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/parent.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/real-time-monitor.git" />
+          <option name="name" value="real-time-monitor" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/real-time-monitor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/registry-center.git" />
+          <option name="name" value="registry-center" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/registry-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/system-manage.git" />
+          <option name="name" value="system-manage" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/system-manage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/iov/xxl-job.git" />
+          <option name="name" value="xxl-job" />
+          <option name="namespace" value="iov" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/iov/xxl-job.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/a26-electricize-record.git" />
+          <option name="name" value="a26-electricize-record" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/a26-electricize-record.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/battery_life_cycle.git" />
+          <option name="name" value="battery_life_cycle" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/battery_life_cycle.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/battery_life_cycle_soh.git" />
+          <option name="name" value="battery_life_cycle_soh" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/battery_life_cycle_soh.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/big_charging_statistics.git" />
+          <option name="name" value="big_charging_statistics" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/big_charging_statistics.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/big_endurance_mileage_gb.git" />
+          <option name="name" value="big_endurance_mileage_gb" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/big_endurance_mileage_gb.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/big_exporting_historical_data_gb.git" />
+          <option name="name" value="big_exporting_historical_data_gb" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/big_exporting_historical_data_gb.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/big_vehicle_on_line.git" />
+          <option name="name" value="big_vehicle_on_line" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/big_vehicle_on_line.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/charging-statistics.git" />
+          <option name="name" value="charging-statistics" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/charging-statistics.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/data-synchronization.git" />
+          <option name="name" value="data-synchronization" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/data-synchronization.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/dataProcessing.git" />
+          <option name="name" value="dataProcessing" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/dataProcessing.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/exporting-historical-data.git" />
+          <option name="name" value="exporting-historical-data" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/exporting-historical-data.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/flume-Interceptor.git" />
+          <option name="name" value="flume-Interceptor" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/flume-Interceptor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/gb-alarm-handle.git" />
+          <option name="name" value="gb-alarm-handle" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/gb-alarm-handle.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/gb-kafka-hdfs.git" />
+          <option name="name" value="gb-kafka-hdfs" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/gb-kafka-hdfs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/gb-vehicle-analysis.git" />
+          <option name="name" value="gb-vehicle-analysis" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/gb-vehicle-analysis.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/qb-alarm-handle.git" />
+          <option name="name" value="qb-alarm-handle" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/qb-alarm-handle.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/bigdata/spark-submit.git" />
+          <option name="name" value="spark-submit" />
+          <option name="namespace" value="bigdata" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/spark-submit.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/alarm-manage.git" />
+          <option name="name" value="alarm-manage" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/alarm-manage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/app-gateway.git" />
+          <option name="name" value="app-gateway" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/app-gateway.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/battery-manage.git" />
+          <option name="name" value="battery-manage" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/battery-manage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/business-manage.git" />
+          <option name="name" value="business-manage" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/business-manage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/catl-gbdata-syn.git" />
+          <option name="name" value="catl-gbdata-syn" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/catl-gbdata-syn.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/config-center.git" />
+          <option name="name" value="config-center" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/config-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/config-center-resource.git" />
+          <option name="name" value="config-center-resource" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/config-center-resource.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/cx-data-hub.git" />
+          <option name="name" value="cx-data-hub" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/cx-data-hub.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/elk-alarm.git" />
+          <option name="name" value="elk-alarm" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/elk-alarm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/esb-webs-client.git" />
+          <option name="name" value="esb-webs-client" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/esb-webs-client.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/esb-WebService.git" />
+          <option name="name" value="esb-WebService" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/esb-WebService.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/monitor-center.git" />
+          <option name="name" value="monitor-center" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/monitor-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/nev-monitor-center-web.git" />
+          <option name="name" value="nev-monitor-center-web" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/nev-monitor-center-web.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/parent.git" />
+          <option name="name" value="parent" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/parent.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/real-time-monitor.git" />
+          <option name="name" value="real-time-monitor" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/real-time-monitor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/registry-center.git" />
+          <option name="name" value="registry-center" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/registry-center.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/gac-nev-monitor-center/system-manage.git" />
+          <option name="name" value="system-manage" />
+          <option name="namespace" value="gac-nev-monitor-center" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/system-manage.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.88.25.40:9001/iov/xxl-job.git" />
+          <option name="name" value="xxl-job" />
+          <option name="namespace" value="iov" />
+          <option name="sshUrl" value="ssh://git@10.88.25.40:2222/iov/xxl-job.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
