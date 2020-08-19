@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="ReadMe" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="dbc" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
