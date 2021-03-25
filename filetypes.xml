@@ -7,7 +7,6 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="dbc" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
-      <mapping ext="yml" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
