@@ -94,6 +94,10 @@
           <option name="url" value="ssh://git@10.88.25.40:2222/gac-nev-monitor-center/bigdata/big_exporting_historical_data_gb.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gacrnd-gitlab.gacicv.com" />
+          <option name="userName" value="ds_guoweimin" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\文档\开发\大圣\project\vms\vms-git" />
